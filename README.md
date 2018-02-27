@@ -2,7 +2,7 @@
 
 <br/>
 <br/>
-This repository was created to track bugs and report other issues related to the eLERT Vision data analytics business intelligence software tool in order to maximize support of the users' needs.
+This repository was created to track bugs and report other issues related to the eLERT Vision software tool in order to maximize support of the users' needs.
 
 <br/>
 <br/>
@@ -19,7 +19,7 @@ Step 3: Watch for updates concerning your requests.
 
 <br/>
 <br/>
-Thank you for using eLertVision!
+Thank you for using eLERT Vision!
 
 <br/>
 <br/>
