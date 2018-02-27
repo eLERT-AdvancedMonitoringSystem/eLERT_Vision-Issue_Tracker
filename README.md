@@ -13,7 +13,7 @@ eLERTvision was designed and developed to allow users to create custom equipment
 Steps to follow:
 
 Step 1: Follow the link below to the Issues Reporting Section of this repository.<br/>
-        Link: <br/>
+        Link: https://github.com/eLERT-AdvancedMonitoringSystem/eLERT_Vision-Issue_Tracker/issues<br/>
 Step 2: Report your issue.<br/>
 Step 3: Watch for updates concerning your requests.
 
